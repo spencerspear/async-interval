@@ -1,0 +1,12 @@
+{
+  "name": "async-interval",
+  "version": "1.0.0",
+  "description": "An enhanced implementation of setInterval for promises and async functions available in Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
